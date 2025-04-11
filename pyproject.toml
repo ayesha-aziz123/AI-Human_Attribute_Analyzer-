@@ -1,0 +1,11 @@
+[project]
+name = "human-analyze"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "google-generativeai>=0.8.4",
+    "load-dotenv>=0.1.0",
+    "streamlit>=1.44.1",
+]
